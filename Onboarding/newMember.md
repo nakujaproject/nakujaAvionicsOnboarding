@@ -1,8 +1,8 @@
-# New employee orientation and checklist
+# New member orientation and checklist
 
 ## Introduction
 
-We, the avionics team, have created an onboarding checklist to assist a newcomer through the days, weeks, and months as a new member. This document serves as a list of tasks for you to complete with corresponding timelines. Some items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how Nakuja avionics works.
+We, the Avionics team, have created an onboarding checklist to assist a newcomer through the days, weeks, and months as a new member. This document serves as a list of tasks for you to complete with corresponding timelines. Some items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how Nakuja avionics works.
 
 ## Links and resources
 
