@@ -1,7 +1,7 @@
 # Software used for avionics
 
 ## Flight Computer Design
-[Autodesk_Eagle_9.4.2](http://eagle.autodesk.com/eagle/download-software/148) is being used for the N1 flight computer design
+[Autodesk_Eagle_9.4.2](http://eagle.autodesk.com/eagle/software-versions/46) is being used for the N1 flight computer design
 
 ## Flight Computer Programming
 [Arduino_1.8.13](https://www.arduino.cc/en/software) is being used to write the flight computer program
