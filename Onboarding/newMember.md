@@ -49,7 +49,7 @@ We, the Avionics team, have created an onboarding checklist to assist a newcomer
   </tr>
 </table>
 
-### avionics Department
+### Avionics Department
 
 We have members who can assist you when joining
 
@@ -58,13 +58,14 @@ We have members who can assist you when joining
 He is the leader of the Nakuja project.
 
 Email: aoki@jkuat.ac.ke
-Twitter: @moyahima
+Twitter: [Shohei Aoki](https://twitter.com/kimanimike99)
 
-#### Willy Tounsi
+#### Michael Kimani
 
-He is the leader of the avionics subgroup.
+He is the leader of the avionics team.
 
-<!--Email: dmashy@gmail.com --> 
+Email: mikalkimmani@gmail.com
+Twitter: [Michael Kimani](https://twitter.com/kimanimike99)
 
 ## Before your first day
 
