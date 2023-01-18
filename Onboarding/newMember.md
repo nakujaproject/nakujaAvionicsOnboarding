@@ -67,6 +67,13 @@ He is the leader of the avionics team.
 Email: mikalkimmani@gmail.com
 Twitter: [Michael Kimani](https://twitter.com/kimanimike99)
 
+### Edwin Mwiti
+
+He is the current intern lead.
+
+Email:
+Twitter: [Eduh Mwiti](https://twitter.com/e_mwiti)
+
 ## Before your first day
 
 <table>
@@ -166,6 +173,7 @@ Once you're connected to the official communication network for the avionics tea
     <td scope="row">1</td>
     <td>&#9744;</td>
     <td>Info will be sent to you in email week after your first day</td>
+    <td>Contact on-site internship lead</td>
   </tr>
   <tr>
     <td scope="row">2</td>
@@ -252,23 +260,35 @@ Once you're connected to the official communication network for the avionics tea
   <tr>
     <td scope="row">1</td>
     <td>&#9744;</td>
+    <td>Complete mandatory online/physical training.</td>
+    <td>Learn to use Git version control and GitHub correctly and efficiently for collaboration purposes.</td>
+  </tr>
+  <tr>
+    <td scope="row">2</td>
+    <td>&#9744;</td>
+    <td>Complete mandatory physical training.</td>
+    <td>Learn how to make physical sensor connections and an intro to developing circuits on EasyEDA.</td>
+  </tr>
+  <tr>
+    <td scope="row">3</td>
+    <td>&#9744;</td>
+    <td>Complete mandatory physical training.</td>
+    <td>Learn how to use PlatformIO and be onboarded to the N2 flight software.</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td>
+    <td>&#9744;</td>
     <td>Write code to read and display data from one of the avionics sensors ; BMP180 or MPU6050.</td>
     <td>Consult with a member of the team</td>
   </tr>
   <tr>
-    <td scope="row">2</td>
+    <td scope="row">5</td>
     <td>&#9744;</td>
     <td>Schedule a virtual tea with two coworkers.</td>
     <td>You can use one of the video tools</td>
   </tr>
   <tr>
-    <td scope="row">3</td>
-    <td>&#9744;</td>
-    <td>Complete mandatory online training.</td>
-    <td>Learn to use Git version control and GitHub correctly and efficiently for collaboration purposes.</td>
-  </tr>
-  <tr>
-    <td scope="row">4</td>
+    <td scope="row">6</td>
     <td>&#9744;</td>
     <td>Write one blog post.</td>
     <td>Check out <a href="https://nakujaproject.blogspot.com/">For more inforation</a></td>
