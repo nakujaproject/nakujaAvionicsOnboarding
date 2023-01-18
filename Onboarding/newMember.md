@@ -279,16 +279,22 @@ Once you're connected to the official communication network for the avionics tea
     <td scope="row">4</td>
     <td>&#9744;</td>
     <td>Write code to read and display data from one of the avionics sensors ; BMP180 or MPU6050.</td>
-    <td>Consult with a member of the team</td>
+    <td>Consult with a member of the team.</td>
   </tr>
   <tr>
     <td scope="row">5</td>
     <td>&#9744;</td>
-    <td>Schedule a virtual tea with two coworkers.</td>
-    <td>You can use one of the video tools</td>
+    <td>Complete mandatory physical/online training.</td>
+    <td>Learn how to set up and use the Nakuja Avionics base station.</td>
   </tr>
   <tr>
     <td scope="row">6</td>
+    <td>&#9744;</td>
+    <td>Schedule a virtual tea with two coworkers.</td>
+    <td>You can use one of the video tools.</td>
+  </tr>
+  <tr>
+    <td scope="row">7</td>
     <td>&#9744;</td>
     <td>Write one blog post.</td>
     <td>Check out <a href="https://nakujaproject.blogspot.com/">For more inforation</a></td>
