@@ -303,5 +303,5 @@ Once you're connected to the official communication network for the avionics tea
 
 ## Software stack
 
-Check out the software stack we are using [here](softwareUsed.md)
+Check out the software stack we are using [here](https://github.com/nakujaproject/NakujaAvionics/blob/main/Onboarding/softwareUsed.md)
 
