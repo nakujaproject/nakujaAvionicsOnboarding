@@ -182,7 +182,7 @@ Once you're connected to the official communication network for the avionics tea
   <tr>
     <td scope="row">4</td>
     <td>&#9744;</td>
-    <td>Make sure your Slack avatar and Google avatar contain a picture</td>
+    <td>Make sure your Discord avatar and Google avatar contain a picture</td>
     <td>This information is publicly available</td>
   </tr>
  </table>
@@ -214,7 +214,7 @@ Once you're connected to the official communication network for the avionics tea
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
-    <td>Visit the Workshop area</td>
+    <td>Visit the Workshop area(iPIC)</td>
     <td>Instructions are in your will be given physically</td>
   </tr>
 
@@ -252,20 +252,20 @@ Once you're connected to the official communication network for the avionics tea
   <tr>
     <td scope="row">1</td>
     <td>&#9744;</td>
-    <td>Write code to read and display data from one of the avionics sensors ; BMP180 or MPU6050</td>
+    <td>Write code to read and display data from one of the avionics sensors ; BMP180 or MPU6050.</td>
     <td>Consult with a member of the team</td>
   </tr>
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Schedule a virtual tea with two coworkers</td>
+    <td>Schedule a virtual tea with two coworkers.</td>
     <td>You can use one of the video tools</td>
   </tr>
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
     <td>Complete mandatory online training.</td>
-    <td>Learn to use EAGLE CAD and design a circuit to completion</td>
+    <td>Learn to use Git version control and GitHub correctly and efficiently for collaboration purposes.</td>
   </tr>
   <tr>
     <td scope="row">4</td>
